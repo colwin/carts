@@ -114,3 +114,8 @@ weave-ecs-demo-key.pem
 
 # Ignore Vagrant cache files
 *.vagrant/
+
+#ignore jars
+dd-java-agent.jar
+carts.jar
+
